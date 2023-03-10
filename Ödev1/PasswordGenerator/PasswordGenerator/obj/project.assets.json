@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayse\\Desktop\\PasswordGenerator\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\ayse\\Documents\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\Ödev1\\PasswordGenerator\\PasswordGenerator\\PasswordGenerator.csproj",
       "projectName": "PasswordGenerator",
-      "projectPath": "C:\\Users\\ayse\\Desktop\\PasswordGenerator\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectPath": "C:\\Users\\ayse\\Documents\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\Ödev1\\PasswordGenerator\\PasswordGenerator\\PasswordGenerator.csproj",
       "packagesPath": "C:\\Users\\ayse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayse\\Desktop\\PasswordGenerator\\PasswordGenerator\\obj\\",
+      "outputPath": "C:\\Users\\ayse\\Documents\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\Ödev1\\PasswordGenerator\\PasswordGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

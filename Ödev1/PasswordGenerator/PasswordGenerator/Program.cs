@@ -44,4 +44,4 @@ for (int i = 0; i < passwordLength; i++)
     stringChars[i] = password[random.Next(password.Length)]; // Next() metodu içinde max alabileceği değeri tutuyor
 }
 
-Console.WriteLine("\n" + stringChars);
+Console.WriteLine(stringChars);
