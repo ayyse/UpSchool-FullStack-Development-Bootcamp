@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYX/wj9Oa1Z4ufvg44DQvAEM9SMa4c7gCUNeUOFXcVgLosnZctdV6cjdCkF4zANAX1lCTNsqmnCIGJUu8YylHg==",
+  "dgSpecHash": "LKh97fIQtRYaPvflLyy16Plb7Ghlx6snSuBHZNfB28xJezkBHCFtjbN8y6EoP/J72VuaHfZPFblzj09l+A2kGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Masaüstü\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Domain\\CrawlerApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Belgeler\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Domain\\CrawlerApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysea\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\aysea\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

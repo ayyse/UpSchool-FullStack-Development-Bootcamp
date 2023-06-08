@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BvXnMVZl6AC/jyicKMFq0/TUFt3cpLPOu6D8ykOFTYDmZVAt0YjN60iyR46zrp68jjC9iYIQyUv802twOhdeKQ==",
+  "dgSpecHash": "9f5NyDhhg84+4ye4v3X3/bjaogfHWPYL0gW/F1kkiOQMy5DMpO4teweqlNzyudC+NZPvH7IagPlnlfDaAO5G0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Masaüstü\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Console\\CrawlerApp.Console.csproj",
+  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Belgeler\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Console\\CrawlerApp.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysea\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\aysea\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",

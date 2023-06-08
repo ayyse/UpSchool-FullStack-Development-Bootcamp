@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zMCqAG1fcIMxMr3xexMCAPx6Ro/qhArtTHHRvZFrOpY7q+WN1k0NkcgKxrYEeIHT5+TG9/3I3ZoaQeB2MkGBoQ==",
+  "dgSpecHash": "2bxuYtNAW66aUuyXPkUFK+UaOPAfz8onZJ5niWdb8Bi7ygc7mQA41f20p1F97DBz09c3fC28xKnEZ5nqDRDBkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Masaüstü\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Wasm\\CrawlerApp.Wasm.csproj",
+  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Belgeler\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Wasm\\CrawlerApp.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysea\\.nuget\\packages\\blazorise\\1.2.3\\blazorise.1.2.3.nupkg.sha512",
     "C:\\Users\\aysea\\.nuget\\packages\\blazorise.bootstrap\\1.2.3\\blazorise.bootstrap.1.2.3.nupkg.sha512",

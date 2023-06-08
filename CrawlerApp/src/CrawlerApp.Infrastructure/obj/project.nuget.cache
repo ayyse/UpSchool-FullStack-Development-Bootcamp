@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xN5TSCGxf1RHLCpd2JIA3QOqIP95bLZqBf18IRDoqzaiM4W9y47iBWqn2xW6F/ivtpu4Gpku79paAvJjv0Z2zw==",
+  "dgSpecHash": "tZ0W88T+qRwBTFON3zJ8rJCJ++0l6o1ZJPxY43i7s2gggQFzM1YRfKyV3vMSHHHDyJMzs+m0AbYKhOY08wFjGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Masaüstü\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Infrastructure\\CrawlerApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\aysea\\OneDrive\\Belgeler\\GitHub\\UpSchool-FullStack-Development-Bootcamp\\CrawlerApp\\src\\CrawlerApp.Infrastructure\\CrawlerApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysea\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aysea\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
